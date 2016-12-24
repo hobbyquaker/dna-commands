@@ -80,7 +80,7 @@ Current
 
 ## M
 
-### M=lt;number&gt;
+### M=&lt;number&gt;
 
 Set profile
 
@@ -93,7 +93,7 @@ Get current profile
 
 Power
 
-### P=lt;number&gt;W
+### P=&lt;number&gt;W
 
 Set power
 
@@ -230,9 +230,9 @@ Statistics
 
 Temperature
 
-### T=lt;number&gt;C
+### T=&lt;number&gt;C
 
-### T=lt;number&gt;F
+### T=&lt;number&gt;F
 
 ### T=?
 
