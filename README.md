@@ -33,6 +33,10 @@ Battery Level Percent
 
 ### E=GET PRODUCT
 
+### E=GET SERIAL
+
+Board serial number
+
 ### E=GET FEATURE &lt;number&gt;
 
 Example: E=GET FEATURE 1
