@@ -37,6 +37,10 @@ Battery Level Percent
 
 Board serial number
 
+### E=GET VERSION
+
+Get firmware version (eg. "201606050")
+
 ### E=GET FEATURE &lt;number&gt;
 
 Example: E=GET FEATURE 1
