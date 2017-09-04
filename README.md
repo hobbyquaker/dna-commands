@@ -233,6 +233,9 @@ Statistics
 
 ### S=GET LAST TIME 
 
+### S=RESET
+
+Reset device statistics
 
 ## T
 
