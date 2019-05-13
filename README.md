@@ -335,3 +335,5 @@ Sample
 ### X=GET TIMER 
  Timer
 
+### X=RESET
+ Reset
